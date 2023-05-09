@@ -1,7 +1,8 @@
-#Video về Project Simple Movie
+# Project Simple Movie
 ![movie](https://user-images.githubusercontent.com/75383405/237021121-74451bf5-b8d1-4c2a-a442-67d603478b8f.png)
 ![movie3](https://user-images.githubusercontent.com/75383405/237021807-e6d6efca-5d29-447f-aec2-27ae77f60db7.png)
-![movie2](https://user-images.githubusercontent.com/75383405/237021533-32ddfc19-8cdb-423a-bb78-534800548fa8.png)
+![movie3](https://user-images.githubusercontent.com/75383405/237022523-f2974465-8121-4d77-9c14-99ffb430757c.png)
+
 
 
 # Getting Started with Create React App
